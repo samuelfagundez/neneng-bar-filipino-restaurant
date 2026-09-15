@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-fachada.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-sisig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-silog-lumpia.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-parrilla-filipina.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-halo-halo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-comedor.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-barra.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/neneng-bar-filipino-restaurant/gallery/neneng-bar-noche.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (jardín vertical
+   verde en la pared, ratán/madera cálida del mobiliario, letrero de neón
+   amarillo "Neneng", y los colores de la bandera filipina en el rótulo de
+   fachada) — ver punto 0.5 del handoff: nunca una paleta genérica de
+   plantilla. */
+@theme {
+  --color-cream: #fbf6ec;
+  --color-cream-dark: #f1e6cf;
+  --color-ink: #29241d;
+  --color-rattan: #c9973f;
+  --color-rattan-dark: #a3782c;
+  --color-jungle: #47623a;
+  --color-jungle-dark: #33482a;
+  --color-flag-blue: #1f3e85;
+  --color-flag-red: #c23b2e;
+  --color-sun: #f2c230;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}
