@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/g77RLQ4hfTE4Z9SNA",
+    "expandedUrl": "https://www.google.com/maps/place/Neneng+Bar+%2F+Filipino+Restaurant/@39.4650055,-0.350731,19z/data=!4m6!3m5!1s0xd604900490ef0ff:0xc4014c52c7500b37!8m2!3d39.4651007!4d-0.3503707!16s%2Fg%2F11wbzk2dfd?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=9dde40aa-037a-4fd5-a044-a63558b024ed&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=14123653824825527095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJ__AOSQBJYA0RNwtQx1JMAcQ",
+    "featureId": "0xd604900490ef0ff:0xc4014c52c7500b37",
+    "gmapsPlaceRef": "/g/11wbzk2dfd",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-15T21:51:47.545Z"
+  },
+  "name": "Neneng Bar / Filipino Restaurant",
+  "rating": {
+    "score": 4.7,
+    "count": 272
+  },
+  "phone": "+34 632 00 23 76",
+  "phoneNational": "632 00 23 76",
+  "hours": {
+    "weekly": [
+      "lunes: Cerrado",
+      "martes: 12:00–1:00",
+      "miércoles: 12:00–1:00",
+      "jueves: 12:00–1:00",
+      "viernes: 12:00–1:30",
+      "sábado: 12:30–1:30",
+      "domingo: 12:30–1:30"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 12,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 1,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 1,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 1,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 1,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 1,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 12,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 1,
+          "minute": 30
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "10 € – 20 €",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "links": {
+    "website": null,
+    "menu": null,
+    "reservations": null,
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=14123653824825527095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604900490ef0ff:0xc4014c52c7500b37!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604900490ef0ff:0xc4014c52c7500b37!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604900490ef0ff:0xc4014c52c7500b37!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604900490ef0ff:0xc4014c52c7500b37!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Av. del Port, 122, Camins al Grau, 46023 València, Valencia",
+    "short": "Av. del Puerto, 122, Valencia",
+    "components": {
+      "number": "122",
+      "street": "Avinguda del Port",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46023"
+    }
+  },
+  "location": {
+    "lat": 39.4651007,
+    "lng": -0.3503707
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "snack_bar",
+    "meal_takeaway",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Recogida en la puerta",
+    "Terraza / asientos fuera",
+    "Apto para niños",
+    "Aseos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Cerveza",
+    "Vino"
+  ],
+  "accessibility": null,
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": null,
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Neneng Bar Restaurante Filipino",
+      "attributionUri": "https://maps.google.com/maps/contrib/102022693068123770648"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "attribution": "Roguel Jove",
+      "attributionUri": "https://maps.google.com/maps/contrib/117633716280292401659"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 2535,
+      "heightPx": 4800,
+      "attribution": "Neneng Bar Restaurante Filipino",
+      "attributionUri": "https://maps.google.com/maps/contrib/102022693068123770648"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Neneng Bar Restaurante Filipino",
+      "attributionUri": "https://maps.google.com/maps/contrib/102022693068123770648"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "attribution": "Roguel Jove",
+      "attributionUri": "https://maps.google.com/maps/contrib/117633716280292401659"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "attribution": "javetus",
+      "attributionUri": "https://maps.google.com/maps/contrib/115148241476536825954"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "Neneng Bar Restaurante Filipino",
+      "attributionUri": "https://maps.google.com/maps/contrib/102022693068123770648"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Toni Cruz",
+      "attributionUri": "https://maps.google.com/maps/contrib/101078463039506172950"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Noor Farahi Sánchez",
+      "attributionUri": "https://maps.google.com/maps/contrib/114631197707733335825"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Noor Farahi Sánchez",
+      "attributionUri": "https://maps.google.com/maps/contrib/114631197707733335825"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Alma",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjUdO8zU_JItS35-QXPgkfQTXWkQEbnOcbr6MXRohtOHvRgSZOGo=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/105399319411478166604/reviews",
+      "rating": 5,
+      "text": "Excelente sitio. Hemos estado en filipinas recientemente y nos ha recordado todos los sabores de allí ¡qué alegría! 😹😊😊\nSon profesionales y es el único restaurante así en valencia ❤️\nMuy rico gracias 🤤😋\nRecomendamos mucho la limonada!!",
+      "language": "es",
+      "relativeTime": "Hace 3 semanas",
+      "publishTime": "2026-08-22T14:24:05.628020350Z"
+    },
+    {
+      "author": "Carlos Payá",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjUz455QokLOwo6XKaDcl5_ik7QDSH2UYXqnbqp_LrxX__LP-5ie=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/109530954132640061729/reviews",
+      "rating": 5,
+      "text": "El trato, el producto, el precio... Excelente debut en Neneng, el \"primero de Filipinas\" en Valencia. Bebida fresca, platos desconocidos que te ganan: la limpia, el sisig, el adobo... Y ese maravilloso pastel de yuca para rematar con un cumplidisimo capuccino (serigrafiado) de Neneng. Por supuesto: repetiremos",
+      "language": "es",
+      "relativeTime": "Hace 7 meses",
+      "publishTime": "2026-02-04T14:22:57.256420364Z"
+    },
+    {
+      "author": "javetus",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVy7BKaDP_Hf3oGOMSRsTR5FeA0X4QTvx8o1xlVyn3YK6atn1U=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/115148241476536825954/reviews",
+      "rating": 5,
+      "text": "Una vez más, de vuelta a nuestro sitio favorito… ¡simplemente espectacular!\n\nEste restaurante filipino nunca decepciona. Su comida es sabrosa, casera, tradicional y preparada con muchísimo mimo.\n\nComo siempre, pedimos nuestro plato estrella: el sisig, una mezcla irresistible de carne de cerdo picada, cebolla y condimentos, servida caliente y acompañada de arroz. Tiene un sabor inconfundible que representa a la perfección la esencia de la cocina filipina. Sin duda, el plato que recomendaría a todos.\n\nLas lumpias estaban riquísimas, con una masa fina y crujiente, rellenas generosamente y recién hechas. Se nota el cuidado en su preparación y el sabor casero que las hace tan especiales. También pedimos adobo de cerdo, espectacular, con una salsa intensa y equilibrada, ligeramente dulce y ácida a la vez, que potencia el sabor de la carne tierna y jugosa. La panceta es otro acierto absoluto, es completamente irresistible y llena de sabor.\n\nPedimos también el pancit, fideos de arroz cargados de verduras y carne, sabrosos y muy bien sazonados, un plato perfecto para compartir.\n\nPara acompañar, disfrutamos de dos Tequila Sunrise, deliciosos, con una presentación cuidada y un sabor espectacular. Se nota que los cócteles los preparan con esmero, y además, a un precio muy razonable.\n\nRecomiendo reservar, especialmente los fines de semana, ya que suele llenarse con facilidad, y con razón.\n\nAnimo a todo el mundo a probar la comida filipina, porque es realmente espectacular. Y no puedo dejar de mencionar a Grace y Ronnie, que son un encanto, siempre nos reciben con una sonrisa, atentos y cercanos, verdaderos anfitriones que hacen que cada visita sea una experiencia inolvidable.",
+      "language": "es",
+      "relativeTime": "Hace 11 meses",
+      "publishTime": "2025-10-12T20:57:05.753172176Z"
+    },
+    {
+      "author": "Norma Francisco Monzó",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocL30rRYB5559K_-Ymfz1hzX2dUbCZRA9t5vPeydC_ts5rf4Ew=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/103578668581066734759/reviews",
+      "rating": 5,
+      "text": "Hoy hemos ido a cener a Neneng y nos ha encantado!Hemos pedido 3 menus d fin de semana x 20€ con1bbida y postre(flan d huevo o trocito dbizcocho d chocolate,no disponen de postres tipicos felipinos en el menu).El guiso de cerdo de Neneng esta BUENISOMO.Hay q probarlo si o si.Muy buenos tambien sus fideos de arroz con verduras y limon.Volveremos para brobar mas cosas.\nEl camarero no hablaba español pero tampoco ha habido problma para entendernos.El dueño si habla español.El ambien es tranquilo y agradable.",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-07-04T20:27:00.391801404Z"
+    },
+    {
+      "author": "Maria Jose Mayorga",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKYRjC8Zc9uJmIow9X40aT-eX7lhXybPrE_rfhnD17pFXzMaw=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/106790396256935427462/reviews",
+      "rating": 5,
+      "text": "Este fin de semana fuimos un grupo de amigos a descubrir (una vez más) el único restaurante filipino de toda Valencia, y la experiencia fue, como siempre, espectacular. Si buscas comida casera, tradicional y llena de sabor, este lugar es una parada obligatoria.\n\nEmpezamos con unos “vinos tintos filipinos”, cuya presentación ya nos arrancó una sonrisa: cuidada, original y con ese toque especial que anticipa lo que está por venir.\n\nPara compartir, pedimos una selección de platos típicos que nos transportaron directamente a Filipinas. Comenzamos con el Sisig, elaborado con panceta, careta de cerdo y morro, servido sobre una plancha caliente y coronado con un huevo que se mezcla justo antes de comerlo. Una auténtica explosión de sabores y texturas, entre lo crujiente, lo jugoso y ese punto ácido tan característico.\n\nDespués llegó el Adobo, un clásico filipino preparado con carne marinada en vinagre, soja, ajo y laurel. Su sabor es equilibrado, sabroso y reconfortante, sin ser pesado.\n\nEl Bicol Express nos encantó por su cremosidad y su toque picante perfecto. Un plato lleno de sabor, historia y tradición, que resume la esencia de la cocina filipina.\n\nTambién disfrutamos del Pancit Bihon, unos finos fideos de arroz salteados con verduras y cerdo, aromáticos, ligeros y muy sabrosos.\n\nY, por supuesto, no podía faltar la Lumpia, ese rollito crujiente relleno de carne y verduras, dorado a la perfección y con un sabor que te hace querer repetir una y otra vez.\n\nTodo lo acompañamos con arroz blanco, el aliado perfecto para realzar cada plato.\n\nLa cuenta final fue de 90,70 €, incluyendo toda la comida (repetíamos dos platos), tres tintos de verano y siete cervezas. Una excelente relación calidad-precio para la cantidad, el mimo y la autenticidad que ofrecen.\n\nPero más allá de la comida, lo que realmente hace especial a este restaurante es el factor humano. El trato es cercano, amable y genuino, siempre te reciben con una sonrisa y te hacen sentir como en casa. Se nota que ponen alma y corazón en cada plato, cuidando cada detalle para que la experiencia sea completa.\n\nAgradecemos profundamente que nos ofrezcan un trocito de Filipinas a través de su cocina, con tanto cariño y dedicación.\n\nEn definitiva, este restaurante es mucho más que un sitio para comer, es un lugar donde se celebra la tradición, la calidez y la pasión por la buena comida. Cada visita es una experiencia que deja el alma contenta y el paladar feliz.",
+      "language": "es",
+      "relativeTime": "Hace 11 meses",
+      "publishTime": "2025-10-05T08:15:20.995715370Z"
+    }
+  ]
+}
